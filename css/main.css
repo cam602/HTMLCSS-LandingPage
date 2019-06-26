@@ -53,7 +53,7 @@ section {display: flex;}
 }
 .search-button {
   color: #ffffff;
-  background color: #a0a0a0;
+  background-color: #a0a0a0;
   width: 100px;
   height: 30px;
   border: 0;
@@ -78,7 +78,7 @@ section {display: flex;}
   font-size: 18px;
 }
 .account a{font-size: 14px;}
-.profile-pic{width: 60px; height: 60px;}
+.profile-pic { width: 60px; height: 60px;}
 .profile-pic img{
   border-radius: 100px;
   max width: 100%;
