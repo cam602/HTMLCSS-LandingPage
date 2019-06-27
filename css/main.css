@@ -250,18 +250,10 @@ footer a:hover {
   background-size: 23px 23px;
   background-position: center;
 }
-.twitter {
-  background-image: url('../img/twitter.svg');
-}
-.facebook {
-  background-image: url('../img/facebook.svg');
-}
-.instagram {
-  background-image: url('../img/instagram.svg');
-}
-.pinterest {
-  background-image: url('../img/pinterest.svg');
-}
+.twitter { background-image: url('../img/twitter.svg');}
+.facebook { background-image: url('../img/facebook.svg');}
+.instagram { background-image: url('../img/instagram.svg');}
+.pinterest { background-image: url('../img/pinterest.svg');}
 .newsletter .link-header {
   font-size: 12px;
   font-weight: 400;
@@ -291,8 +283,7 @@ footer a:hover {
   font-size: 16px;
 }
 .ps img { max-width: 230px;}
-.demo {
-  padding: 0 30px;
+.demo { padding: 0 30px;
 }
 .demo:before {
   content: "";
